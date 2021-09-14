@@ -1,0 +1,5 @@
+## Introduction
+This a Natural Language Processing (NLP) project where I tried to classify emails on whether they are spam or "ham" (i.e. not spam) using different features for my model. The Jupyter notebooks were used to follow along Derek Jedamski's [NLP with Python for Machine Learning Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/welcome).
+
+### Motivation
+I wanted to delve into Machine Learning and specifically NLP and the python package NLTK. I finished the course and my certificate can be found [here](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training?trk=flagship-lil_details_certification&trk=lil_details_certification&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhLNzElCuQ86HK1B4Sus5aQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-lil_details_certification) and on my [LinkedIn](https://www.linkedin.com/in/david-nagarpowers/).
